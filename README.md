@@ -83,7 +83,7 @@ GOOGLE_PARENT_FOLDER_ID=<the ID of the Google Drive folder where you want to upl
 
     a.  Update the users data (run to include new users added to the system):
 
-```
+``` 
 #!/bin/bash
 source venv/bin/activate
 cd zoom_video_migrator
@@ -111,7 +111,7 @@ python batch_job.py --start-date 2022-01-01 --end-date 2022-01-31
 
 - Zoom Cloud Recording has been disabled for the past few months so there will be no weekly data until the service is enabled again.
     
-    a.  Update the users data (run to include new users added to the system):
+a.  Update the users data (run to include new users added to the system):
 
 ```
 #!/bin/bash
